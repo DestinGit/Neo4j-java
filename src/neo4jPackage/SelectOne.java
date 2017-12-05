@@ -30,10 +30,8 @@ public class SelectOne {
 //            if(cursor.next()) {
 //                Record record = cursor.next();
                 //System.out.println("Enregistrement : " + record.toString());
-//            }
-            
-            
-        }catch(Exception ex) {
+//            }            
+        } catch(Exception ex) {
             System.out.println("Rater LOL : ");
         }
     }
